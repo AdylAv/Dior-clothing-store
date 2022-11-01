@@ -1,0 +1,64 @@
+.underHeader{
+    width: 1300px;
+    margin: 0 auto;
+    font-size: 17px;
+    margin-top: 15px;
+    align-items: center;
+    border-bottom: 1.5px solid rgb(228, 223, 223);
+}
+.strong_font{
+    font-size: 14px;
+    font-weight: 500;
+}
+.weak_font{
+    font-size: 14px;
+    font-weight: 500;
+    color: #9e9b9b;
+}
+
+.mainContent{
+    width: 1300px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.pichWrapper{
+    width: 678px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.pich img{
+    margin-top: 15px;
+    width: 327px;
+    height: 412px;
+}
+.pich2 img{
+    width: 327px;
+    height: 412px;
+}
+
+.text{
+    width: 465px;
+    height: 600px;
+    background: #f5f4f4;
+}
+
+.tittle{
+    font-weight: 500;
+    font-size: 21px;
+    color: #000000;
+    padding: 0px 24px;
+    padding-top: 18px;
+
+}
+
+.about_text{
+    font-weight: 400;
+    font-size: 15px;
+    color: #464545;
+    padding: 0px 24px;
+}

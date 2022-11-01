@@ -1,0 +1,51 @@
+
+.input_wrapper{
+    display: flex;
+    justify-content: center;
+    margin-top: 120px;
+    
+}
+
+input{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    margin-bottom: 25px;
+}
+
+.wrapperCard {
+    margin: 0 auto;
+    width: 1200px;
+    display: flex;
+    margin-top: 20px;
+    flex-wrap: wrap;
+    justify-content: space-around; 
+
+}
+
+
+.card{
+   width: 265px;
+   height: 300px;
+    margin-bottom: 40px;
+    border: solid rgb(211, 211, 211) 1px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px rgb(202, 200, 200);
+    align-items: center;
+    text-align: center;
+}
+
+
+.card img{
+    margin-top: 5px;
+    height: 155px;
+    width: 255px;
+    border-radius: 5px;
+    
+}
+
+.card p{
+    align-items: center;
+    text-align: center;
+    width: 240px;
+}

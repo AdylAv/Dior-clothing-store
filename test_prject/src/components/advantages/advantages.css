@@ -1,0 +1,120 @@
+.hiter{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.dvantages_items{
+    width: 1300px;
+    margin: 0 auto;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.fist_block{
+    width: 285px;
+    height: 240px;
+    background: #faf9f9;
+    align-items: center;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.fist_block img{
+    margin-top: 22px;
+}
+
+.fist_block p{
+    margin-top: 20px;
+    font-weight: 500;
+    font-size: 14px;
+    color: #393939;
+    
+}
+.fist_block span{
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #979797;
+}
+.second_block{
+    width: 285px;
+    height: 240px;
+    background: #faf9f9;
+    align-items: center;
+    text-align: center;
+    border-radius: 15px;
+}
+.second_block img{
+    margin-top: 30px;
+}
+.second_block p{
+    margin-top: 20px;
+    font-weight: 500;
+    font-size: 14px;
+    color: #393939;  
+    margin-top: 35px;
+}
+.second_block span{
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #979797;
+}
+
+.third_block{
+    width: 285px;
+    height: 240px;
+    background: #faf9f9;
+    align-items: center;
+    text-align: center;
+    border-radius: 15px;
+}
+.third_block img{
+    margin-top: 30px;
+}
+.third_block p{
+    margin-top: 20px;
+    font-weight: 500;
+    font-size: 14px;
+    color: #393939;
+    margin-top: 25px;  
+}
+.third_block span{
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #979797;
+}
+
+.four_block{
+    width: 285px;
+    height: 240px;
+    background: #faf9f9;
+    align-items: center;
+    text-align: center;
+    border-radius: 15px;
+}
+.four_block img{
+    margin-top: 16px;
+}
+.four_block p{
+    margin-top: 20px;
+    font-weight: 500;
+    font-size: 14px;
+    color: #393939;
+    margin-top: 25px;  
+}
+.four_block span{
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #979797;
+}
+
+.wrapper_advantages{
+    margin-bottom: 50px;
+}

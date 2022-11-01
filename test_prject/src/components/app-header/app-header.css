@@ -1,0 +1,204 @@
+
+.wraperHader{
+  width: 1300px;
+  margin: 0 auto;
+  font-size: 17px;
+  margin-top: 25px;
+  
+}
+
+
+
+
+
+
+.wraperHader .headerUp{
+  display: flex;
+  justify-content: space-between;
+  margin: 5px;
+  border-bottom: 1.5px solid rgb(228, 223, 223);
+  border-radius: 2px;
+  
+}
+
+.wraperHader .headerUp a{
+  text-decoration: none;
+  color: rgb(53, 51, 51);
+  transition: 300ms ease;
+}
+
+.wraperHader .headerUp a:hover{
+    color: rgb(182, 179, 179);
+}
+
+.wraperHader .headerUp ul{
+  display: flex;
+  margin-left: 0px;
+}
+
+.wraperHader .headerUp ul li{
+  list-style: none;
+  margin-right: 24px;
+  align-items: center;
+}
+.wraperHader .headerUp a span{
+  color: rgb(117, 114, 114);
+}
+
+.wraperHader .headerUp Link{
+  text-decoration: none;
+  color: rgb(53, 51, 51);
+  transition: 300ms ease;
+}
+
+.wraperHader .headerUp Link:hover{
+  color: rgb(182, 179, 179);
+}
+
+.wraperHader .headerUp Link span{
+  color: rgb(117, 114, 114);
+}
+
+.wraperHader .headerUp {
+  
+  align-items: center;
+}
+
+.wraperHader .headerUp .singIn{
+  margin-left: 600px;
+  background-color: rgb(41, 142, 182);
+  padding: 8px;
+  border-radius: 15px;
+  font-weight: 400;
+  color: #fff;
+  cursor: pointer;
+}
+
+.wraperHader .headerUp .singIn:hover{
+  background-color: rgb(114, 191, 221);
+  color: rgb(0, 0, 0);
+  font-weight: 400;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.overlay{
+  position: absolute;
+  z-index: 10;
+  top: 20px;
+  left: 30%;
+  position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgb(0, 0, 0, 0.5);
+    
+}
+
+
+.modal{
+  border: 1px solid black;
+  display: inline-block;
+  position: relative;
+  top: 220px;
+  left: 35%;
+  padding: 40px;
+  background-color: rgb(49, 49, 49);
+  border-radius: 15px;
+  width: 500px;
+  height: 280px;
+}
+
+.modal span{
+  font-size: 25px;
+  color: rgb(214, 213, 213);
+  margin-left: 70px;
+  
+
+}
+
+.closeModal{
+  position: relative;
+  top: -25px;
+  left: 470px;
+  color: rgb(196, 50, 50);
+  font-weight: 600;
+  font-size: 20px;
+  cursor: pointer;
+  font-size: 35px;
+}
+
+.d-flex{
+  padding-right: 10px;
+}
+
+
+input{
+  background-color: rgb(49, 49, 49);
+  border: none;
+  border-bottom: 0.7px solid rgb(99, 168, 228);
+  margin-left: 50px;
+  margin-top: 35px;
+  padding-bottom: 10px;
+  outline: none;
+  color: rgb(214, 214, 214);
+}
+
+button{
+  margin-top: 45px;
+  margin-left: 350px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-weight: 500;
+  color: rgb(245, 245, 245);
+  background-color:  rgb(99, 168, 228);
+  border: none;
+}
+
+button:hover{
+  background-color:  rgb(43, 87, 126);
+}
+
+
+.modal_thx{
+  border: 1px solid black;
+  display: inline-block;
+  position: relative;
+  top: 220px;
+  left: 35%;
+  padding: 40px;
+  background-color: rgb(49, 49, 49);
+  border-radius: 15px;
+  width: 500px;
+  height: 280px;
+}
+.modal_span{
+  font-size: 25px;
+  color: rgb(214, 213, 213);
+  position: absolute;
+  top: 60px;
+  left: 100px;
+  align-items: center;
+  text-align: center;
+}
+
+.modal_btn{
+  position: relative;
+   top: 150px;
+   left: -125px;
+}

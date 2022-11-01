@@ -1,0 +1,46 @@
+.wraperHaderLow{
+    width: 1300px;
+    margin: 0 auto;
+    font-size: 17px;
+    
+  }
+
+
+  .wrapper {
+    margin-top: 10px;
+    border-bottom: 1.5px solid rgb(228, 223, 223);
+    border-radius: 2px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .wrapper .search{
+    width: 662px;
+    height: 25px;
+    border: 1px solid #E0E0E0;
+    background: #F8F8F8;
+    padding-left: 35px;
+    border-radius: 1px;
+    font-size: 14px;
+    padding: 10px;
+    color: #000;
+    margin-bottom: 15px;
+  }
+
+  .wrapper a{
+    text-decoration: none;
+    color: black;
+    user-select: none;
+  }
+  
+
+
+
+
+
+
+
+
+

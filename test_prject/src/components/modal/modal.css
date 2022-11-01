@@ -1,0 +1,12 @@
+.custom-modal{
+    width: 500px;
+    height: 500px;
+    background-color: #fff;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+  }

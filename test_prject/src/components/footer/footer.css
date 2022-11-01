@@ -1,0 +1,74 @@
+.wrapperFooter{
+    width: 100%;
+    background-color: #1D1D1B;
+  }
+  
+  .forColums{
+    width: 1300px;
+    margin: 0 auto;
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 30px;
+    align-items: center;
+  }
+  
+  .second li{
+    color: #fff;
+    list-style: none;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 8px;
+  }
+
+  .second li a{
+    color: #fff;
+    list-style: none;
+    text-decoration: none;
+    font-weight: 300;
+    font-size: 14px;
+    
+  }
+
+  .second li Link{
+    color: #fff;
+    list-style: none;
+    text-decoration: none;
+    font-weight: 300;
+    font-size: 14px;
+    
+  }
+
+  .third li{
+    color: #fff;
+    list-style: none;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 8px;
+  }
+
+  .third li a{
+    color: #fff;
+    list-style: none;
+    text-decoration: none;
+    font-weight: 300;
+    font-size: 14px;
+    
+  }
+
+  .four li{
+    color: #fff;
+    list-style: none;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 8px;
+  }
+
+  .four li a{
+    color: #fff;
+    list-style: none;
+    text-decoration: none;
+    font-weight: 300;
+    font-size: 14px;
+    
+  }

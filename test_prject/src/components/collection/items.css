@@ -1,0 +1,61 @@
+
+.all{
+    width: 1300px;
+    margin: 0 auto;
+}
+
+.adress{
+    width: 1300px;
+    margin: 0 auto;
+    font-size: 17px;
+    margin-top: 15px;
+    align-items: center;
+    border-bottom: 1.5px solid rgb(228, 223, 223);
+
+}
+
+
+
+
+.df{
+    display: flex;
+    width: 1300px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 auto;
+   
+    
+}
+
+.wraperItems{
+    max-width: 1300px;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+
+
+.title{
+    position: relative;
+    top: -60px;
+    left: 50px;
+    color: #fff;
+   align-items: center;
+}
+
+.openCard{
+    background-color: #000;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: 500;
+    color: #fff;
+    text-align: center;
+    position: relative;
+    top: -60px;
+}
+
+.openCard:hover{
+    background-color: rgb(235, 235, 235);
+    color: #000;
+    font-weight: 500;
+    cursor: pointer;
+}
